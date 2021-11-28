@@ -1,0 +1,2 @@
+# AmongVSImpostor
+PrivacyPolicyRU
